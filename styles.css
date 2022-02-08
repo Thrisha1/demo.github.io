@@ -1,0 +1,48 @@
+*{
+    margin:0%;
+    padding:0%;
+}@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+body{
+    background-color: #3a4241;
+    color: #fff;
+}
+.media{
+     align-self: center;
+}
+.titleblock h1{
+    font-family: 'Neonderthaw', cursive;
+    
+
+}
+#titleblock__container{
+    align-items: center;
+    text-align: center;
+}
+.titleblock__description{
+    color: rgb(197, 190, 190);
+}
+span{
+    font-weight: bold;
+}
+.subnav__links{
+    color: honeydew;
+    font-weight: bold;
+    transition: all 0.5 ease-in-out;
+}
+.subnav__links:hover{
+    color:blue;
+    font-weight: bold;
+    transition: all 0.5s ease-in-out;
+}
+/*#media__poster{
+    align-items: center;
+    transition: all 10s ease-in-out;
+}
+#media__poster:hover{
+      transition: all 10s ease-in-out;
+}*/
+.genreandplot__genrechip{
+    border:solid 2px #ccc;
+    border-radius: 3rem;
+}
+    
